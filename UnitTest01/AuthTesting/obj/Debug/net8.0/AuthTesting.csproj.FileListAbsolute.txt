@@ -1,0 +1,15 @@
+/workspace/GitPodTeting/UnitTest01/AuthTesting/bin/Debug/net8.0/AuthTesting
+/workspace/GitPodTeting/UnitTest01/AuthTesting/bin/Debug/net8.0/AuthTesting.deps.json
+/workspace/GitPodTeting/UnitTest01/AuthTesting/bin/Debug/net8.0/AuthTesting.runtimeconfig.json
+/workspace/GitPodTeting/UnitTest01/AuthTesting/bin/Debug/net8.0/AuthTesting.dll
+/workspace/GitPodTeting/UnitTest01/AuthTesting/bin/Debug/net8.0/AuthTesting.pdb
+/workspace/GitPodTeting/UnitTest01/AuthTesting/obj/Debug/net8.0/AuthTesting.GeneratedMSBuildEditorConfig.editorconfig
+/workspace/GitPodTeting/UnitTest01/AuthTesting/obj/Debug/net8.0/AuthTesting.AssemblyInfoInputs.cache
+/workspace/GitPodTeting/UnitTest01/AuthTesting/obj/Debug/net8.0/AuthTesting.AssemblyInfo.cs
+/workspace/GitPodTeting/UnitTest01/AuthTesting/obj/Debug/net8.0/AuthTesting.csproj.CoreCompileInputs.cache
+/workspace/GitPodTeting/UnitTest01/AuthTesting/obj/Debug/net8.0/AuthTesting.sourcelink.json
+/workspace/GitPodTeting/UnitTest01/AuthTesting/obj/Debug/net8.0/AuthTesting.dll
+/workspace/GitPodTeting/UnitTest01/AuthTesting/obj/Debug/net8.0/refint/AuthTesting.dll
+/workspace/GitPodTeting/UnitTest01/AuthTesting/obj/Debug/net8.0/AuthTesting.pdb
+/workspace/GitPodTeting/UnitTest01/AuthTesting/obj/Debug/net8.0/AuthTesting.genruntimeconfig.cache
+/workspace/GitPodTeting/UnitTest01/AuthTesting/obj/Debug/net8.0/ref/AuthTesting.dll
